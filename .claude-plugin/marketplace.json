@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugin-marketplace-by-shan",
+  "description": "Curated agent plugins by Shan Kulkarni",
+  "owner": {
+    "name": "Shan Kulkarni",
+    "email": "shan.kulkarni.ts@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "rn-lib-claude",
+      "source": {
+        "source": "github",
+        "repo": "Shankulkarni/RN-Lib-Claude"
+      },
+      "description": "Claude Code plugin for building React Native libraries targeting New Architecture",
+      "keywords": ["react-native", "library", "new-architecture"],
+      "category": "mobile"
+    }
+  ]
+}
