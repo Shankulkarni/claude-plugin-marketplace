@@ -16,6 +16,16 @@
       "description": "Claude Code plugin for building React Native libraries targeting New Architecture",
       "keywords": ["react-native", "library", "new-architecture"],
       "category": "mobile"
+    },
+    {
+      "name": "rn-claude",
+      "source": {
+        "source": "github",
+        "repo": "Shankulkarni/RN-Claude"
+      },
+      "description": "Claude Code plugin for building React Native apps with Expo — New Architecture only",
+      "keywords": ["react-native", "expo", "new-architecture", "nativewind"],
+      "category": "mobile"
     }
   ]
 }
