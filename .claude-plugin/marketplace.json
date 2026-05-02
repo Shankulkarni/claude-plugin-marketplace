@@ -26,6 +26,16 @@
       "description": "Claude Code plugin for building React Native apps with Expo — New Architecture only",
       "keywords": ["react-native", "expo", "new-architecture", "nativewind"],
       "category": "mobile"
+    },
+    {
+      "name": "vibeaudit",
+      "source": {
+        "source": "github",
+        "repo": "Shankulkarni/vibe-audit"
+      },
+      "description": "Audits AI-generated (vibecoded) apps for security, quality, performance, and compliance gaps — before they reach production. Covers Next.js, Supabase, Stripe, React Native, Node.js, and TypeScript.",
+      "keywords": ["security", "audit", "vibecode", "ai-generated", "supabase", "nextjs", "stripe", "react-native"],
+      "category": "security"
     }
   ]
 }
